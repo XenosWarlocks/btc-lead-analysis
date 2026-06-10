@@ -1,0 +1,8 @@
+pandas>=2.1
+pyarrow>=14.0
+streamlit>=1.38
+plotly>=5.20
+rapidfuzz>=3.9
+openpyxl>=3.1
+xlsxwriter>=3.1
+scikit-learn>=1.4   # optional: ML upgrade path for classification

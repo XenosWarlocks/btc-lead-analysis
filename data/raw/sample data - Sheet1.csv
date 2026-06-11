@@ -1,0 +1,4 @@
+user_id,username,email,dob,interest,interests,country_code,mobile,country,city,designation,company,pincode,ran,linkedin,instagram,twitter
+USR-8492,johndoe92,john.doe@email.com,1992-05-14,Technology,"Coding; Hiking; Photography",+1,5550192834,United States,Austin,Software Engineer,TechCorp,78701,8392,://linkedin.com
+USR-2104,amills,a.mills@enterprise.co.uk,1988-11-23,Finance,"Investing; Tennis; Reading",+44,7700900077,United Kingdom,London,Data Analyst,FinSolutions,EC1A 1BB,4721,://linkedin.com
+USR-6371,rvarma,rahul.v@indiamail.in,1995-02-08,Design,"UI/UX; Travel; Cooking",+91,9876543210,India,Bengaluru,Product Designer,CreativeStudio,560001,1059,://linkedin.com
